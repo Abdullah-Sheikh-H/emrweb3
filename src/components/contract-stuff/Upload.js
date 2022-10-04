@@ -249,7 +249,7 @@ const Upload = () => {
 				</div>
 				<button type="submit">Upload to ipfs</button>
 			</form>
-			<form onSubmit={mintHandler}>
+			<form onSubmit={() => mintHandler}>
 				<div className=" mt-3 mb-3">
 					<label className="w-11/12 flex m-auto" htmlFor="patient">
 						Patient Address:
@@ -264,7 +264,9 @@ const Upload = () => {
 				</div>
 				<button type="submit">Mint</button>
 			</form>
-			<button onClick={getEncryptionKey}>give permission to encrypt</button>
+			<button onClick={() => getEncryptionKey}>
+				give permission to encrypt
+			</button>
 		</>
 	)
 }

@@ -138,8 +138,6 @@ const PatientInfo = (props) => {
 				<p>Created at: {createdAt}</p>
 				<p>Updated at: {updatedAt}</p>
 			</div>
-			<VerifyHospital />
-			<EncryptDecrypt />
 			<br />
 			<br />
 			<Upload />
