@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/emrweb3/static/css/main.07183ff7.css",
-    "main.js": "/emrweb3/static/js/main.593566d9.js",
-    "static/js/912.fb2147e5.chunk.js": "/emrweb3/static/js/912.fb2147e5.chunk.js",
-    "static/js/469.e4b7f26f.chunk.js": "/emrweb3/static/js/469.e4b7f26f.chunk.js",
-    "static/js/510.9d5217f5.chunk.js": "/emrweb3/static/js/510.9d5217f5.chunk.js",
-    "static/js/713.525d2c4b.chunk.js": "/emrweb3/static/js/713.525d2c4b.chunk.js",
-    "static/js/51.7c28b708.chunk.js": "/emrweb3/static/js/51.7c28b708.chunk.js",
-    "static/js/800.b511f703.chunk.js": "/emrweb3/static/js/800.b511f703.chunk.js",
-    "static/js/27.f4e6af11.chunk.js": "/emrweb3/static/js/27.f4e6af11.chunk.js",
-    "static/js/702.b5e4eb4a.chunk.js": "/emrweb3/static/js/702.b5e4eb4a.chunk.js",
-    "static/js/177.a07bf5d4.chunk.js": "/emrweb3/static/js/177.a07bf5d4.chunk.js",
-    "static/js/508.a24484d6.chunk.js": "/emrweb3/static/js/508.a24484d6.chunk.js",
-    "static/js/480.855b0815.chunk.js": "/emrweb3/static/js/480.855b0815.chunk.js",
-    "static/js/889.dbd851bb.chunk.js": "/emrweb3/static/js/889.dbd851bb.chunk.js",
-    "static/js/550.eda7fb18.chunk.js": "/emrweb3/static/js/550.eda7fb18.chunk.js",
-    "static/js/562.9da24495.chunk.js": "/emrweb3/static/js/562.9da24495.chunk.js",
-    "static/js/918.22bc4434.chunk.js": "/emrweb3/static/js/918.22bc4434.chunk.js",
-    "static/js/798.3b31f058.chunk.js": "/emrweb3/static/js/798.3b31f058.chunk.js",
+    "main.js": "/emrweb3/static/js/main.654750fa.js",
+    "static/js/912.a77c8d7b.chunk.js": "/emrweb3/static/js/912.a77c8d7b.chunk.js",
+    "static/js/469.aab64142.chunk.js": "/emrweb3/static/js/469.aab64142.chunk.js",
+    "static/js/510.5cb07401.chunk.js": "/emrweb3/static/js/510.5cb07401.chunk.js",
+    "static/js/713.7d3f7573.chunk.js": "/emrweb3/static/js/713.7d3f7573.chunk.js",
+    "static/js/51.b46b95ae.chunk.js": "/emrweb3/static/js/51.b46b95ae.chunk.js",
+    "static/js/800.1162d5d3.chunk.js": "/emrweb3/static/js/800.1162d5d3.chunk.js",
+    "static/js/27.1eb79535.chunk.js": "/emrweb3/static/js/27.1eb79535.chunk.js",
+    "static/js/702.e200dc10.chunk.js": "/emrweb3/static/js/702.e200dc10.chunk.js",
+    "static/js/177.1d20e259.chunk.js": "/emrweb3/static/js/177.1d20e259.chunk.js",
+    "static/js/508.3321eed8.chunk.js": "/emrweb3/static/js/508.3321eed8.chunk.js",
+    "static/js/480.9dea37e7.chunk.js": "/emrweb3/static/js/480.9dea37e7.chunk.js",
+    "static/js/889.a04ac4c2.chunk.js": "/emrweb3/static/js/889.a04ac4c2.chunk.js",
+    "static/js/550.4d221601.chunk.js": "/emrweb3/static/js/550.4d221601.chunk.js",
+    "static/js/562.e8cd96c3.chunk.js": "/emrweb3/static/js/562.e8cd96c3.chunk.js",
+    "static/js/918.19726860.chunk.js": "/emrweb3/static/js/918.19726860.chunk.js",
+    "static/js/798.2aa656ce.chunk.js": "/emrweb3/static/js/798.2aa656ce.chunk.js",
     "static/media/emr.PNG": "/emrweb3/static/media/emr.d380cb98a88ac8d85305.PNG",
     "index.html": "/emrweb3/index.html"
   },
   "entrypoints": [
     "static/css/main.07183ff7.css",
-    "static/js/main.593566d9.js"
+    "static/js/main.654750fa.js"
   ]
 }
