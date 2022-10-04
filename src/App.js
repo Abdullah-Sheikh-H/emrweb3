@@ -7,6 +7,7 @@ import HospitalUpdate from "./pages/HospitalUpdate"
 import VerifyQr from "./pages/VerifyQr"
 
 function App() {
+	console.log("hi")
 	return (
 		<div className="App">
 			<BrowserRouter>
