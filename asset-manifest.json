@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/emrweb3/static/css/main.07183ff7.css",
-    "main.js": "/emrweb3/static/js/main.ed839279.js",
+    "main.js": "/emrweb3/static/js/main.593566d9.js",
     "static/js/912.fb2147e5.chunk.js": "/emrweb3/static/js/912.fb2147e5.chunk.js",
     "static/js/469.e4b7f26f.chunk.js": "/emrweb3/static/js/469.e4b7f26f.chunk.js",
     "static/js/510.9d5217f5.chunk.js": "/emrweb3/static/js/510.9d5217f5.chunk.js",
@@ -23,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.07183ff7.css",
-    "static/js/main.ed839279.js"
+    "static/js/main.593566d9.js"
   ]
 }
