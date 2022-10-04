@@ -1,0 +1,11 @@
+.login-comp-wrapper {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.login-comp-wrapper .error-text {
+  color: red;
+  margin-top: 5px;
+  display: block;
+}

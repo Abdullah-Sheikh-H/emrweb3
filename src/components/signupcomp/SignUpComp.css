@@ -1,0 +1,11 @@
+.signup-comp-wrapper {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.signup-comp-wrapper .error-text {
+  margin-top: 5px;
+  display: block;
+  color: red;
+}
